@@ -1,21 +1,4 @@
-function chartApp(words){
-	switch(words){
-		case ("hello"):
-			console.log("<em>from </em> <br>" + words + "<br>");
-			console.log("<center><i>To</i> <br> HI 🖐 <br>");
-			break;
-		case ("hw bi" || "how be"):
-			console.log("<em>from </em> <br>" + words +"<br>");
-			 
-			console.log("<center><i>To</i> <br> Am cool 😎 <br>");
-			console.log("N U 😊 </center>");
-			
-			break;
-		default:
-			console.log("Who is it");
-			break;
-	}
-} 
+
 
 
 //object literals
